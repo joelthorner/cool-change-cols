@@ -1,7 +1,8 @@
 # cool-change-cols
 
-Demo & Doc:
-# [cool-change-cols](http://joelthorner.com/cool-change-cols)
+Cool change cols
+==========
+Change items views with controls and fade transition effect.
 
-Visit me! :D
-# [joelthorner.com](http://joelthorner.com/cool-change-cols)
+## Demos / Documentation
+Demo & doc : [joelthorner.com](http://joelthorner.com/plugin/cool-change-cols)
